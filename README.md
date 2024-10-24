@@ -29,5 +29,5 @@ Este projeto contém uma classe estática para realizar conversões de unidades 
 
 ### Diagrama
 
-![diagrama](.imagens/print.png)
+![diagrama](...imagens/print.png)
 
