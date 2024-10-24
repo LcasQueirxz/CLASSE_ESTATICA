@@ -29,5 +29,5 @@ Este projeto contém uma classe estática para realizar conversões de unidades 
 
 ### Diagrama
 
-![diagrama](imagens/print.png)
+https://github.com/LcasQueirxz/CLASSE_ESTATICA/blob/main/imagens/Captura%20de%20Tela%202024-10-23%20%C3%A0s%2021.56.35.png
 
