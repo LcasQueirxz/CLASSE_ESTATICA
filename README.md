@@ -29,3 +29,5 @@ Este projeto contém uma classe estática para realizar conversões de unidades 
 
 ### Diagrama
 
+Captura de Tela 2024-10-23 às 21.56.35.png
+
